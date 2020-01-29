@@ -46,6 +46,21 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="a8cd9756-fa07-4dba-b550-a39ba8893607">
+    <name>ОсновнойПоставщик</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основной поставщик</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <forms uuid="e536b33b-df4b-4161-952b-3cbff159d166">
     <name>ФормаЭлемента</name>
     <synonym>
