@@ -27,5 +27,4 @@
   </languages>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
-  <dataProcessors>DataProcessor.ОтменаКоммита</dataProcessors>
 </mdclass:Configuration>
