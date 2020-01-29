@@ -27,4 +27,5 @@
   </languages>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
+  <documents>Document.РеализацияТоваровУслуг</documents>
 </mdclass:Configuration>
